@@ -1,0 +1,11 @@
+{
+  "as_of_date": "2026-10-22",
+  "holding_basis": "Assumed constant holdings from issue to maturity. Not actual trades or investor positions.",
+  "positions": [
+    {"isin": "TRT100528F15", "nominal_usd": 10000},
+    {"isin": "TRT090627F18", "nominal_usd": 20000},
+    {"isin": "TRT140427F13", "nominal_usd": 15000},
+    {"isin": "TRT200827F11", "nominal_usd": 10000},
+    {"isin": "TRT061027F15", "nominal_usd": 15000}
+  ]
+}
