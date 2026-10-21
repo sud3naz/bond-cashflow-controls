@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+*.inspect.ndjson
+~$*.xlsx
+
+# Private study materials. Do not include in GitHub publication.
+/01_tahvil_kupon_ornegi.xlsx
+/docs/01_learning_snapshot.md
+/docs/02_veri_modeli_ve_sql.md
+/docs/06_learning_guide.md
+/docs/PRIVATE_LEARNING_INDEX.md
