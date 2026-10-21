@@ -1,0 +1,628 @@
+{
+  "status": "valid",
+  "as_of_date": "2026-10-22",
+  "currency": "USD",
+  "payment_schedule": [
+    {
+      "isin": "TRT140427F13",
+      "coupon_no": 1,
+      "payment_date": "2026-10-14",
+      "coupon_usd": 334.5,
+      "principal_usd": 0,
+      "total_usd": 334.5
+    },
+    {
+      "isin": "TRT100528F15",
+      "coupon_no": 1,
+      "payment_date": "2026-11-11",
+      "coupon_usd": 260.0,
+      "principal_usd": 0,
+      "total_usd": 260.0
+    },
+    {
+      "isin": "TRT090627F18",
+      "coupon_no": 1,
+      "payment_date": "2026-12-09",
+      "coupon_usd": 520.0,
+      "principal_usd": 0,
+      "total_usd": 520.0
+    },
+    {
+      "isin": "TRT200827F11",
+      "coupon_no": 1,
+      "payment_date": "2027-02-19",
+      "coupon_usd": 272.0,
+      "principal_usd": 0,
+      "total_usd": 272.0
+    },
+    {
+      "isin": "TRT061027F15",
+      "coupon_no": 1,
+      "payment_date": "2027-04-07",
+      "coupon_usd": 442.5,
+      "principal_usd": 0,
+      "total_usd": 442.5
+    },
+    {
+      "isin": "TRT140427F13",
+      "coupon_no": 2,
+      "payment_date": "2027-04-14",
+      "coupon_usd": 334.5,
+      "principal_usd": 15000.0,
+      "total_usd": 15334.5
+    },
+    {
+      "isin": "TRT100528F15",
+      "coupon_no": 2,
+      "payment_date": "2027-05-12",
+      "coupon_usd": 260.0,
+      "principal_usd": 0,
+      "total_usd": 260.0
+    },
+    {
+      "isin": "TRT090627F18",
+      "coupon_no": 2,
+      "payment_date": "2027-06-09",
+      "coupon_usd": 520.0,
+      "principal_usd": 20000.0,
+      "total_usd": 20520.0
+    },
+    {
+      "isin": "TRT200827F11",
+      "coupon_no": 2,
+      "payment_date": "2027-08-20",
+      "coupon_usd": 272.0,
+      "principal_usd": 10000.0,
+      "total_usd": 10272.0
+    },
+    {
+      "isin": "TRT061027F15",
+      "coupon_no": 2,
+      "payment_date": "2027-10-06",
+      "coupon_usd": 442.5,
+      "principal_usd": 15000.0,
+      "total_usd": 15442.5
+    },
+    {
+      "isin": "TRT100528F15",
+      "coupon_no": 3,
+      "payment_date": "2027-11-10",
+      "coupon_usd": 260.0,
+      "principal_usd": 0,
+      "total_usd": 260.0
+    },
+    {
+      "isin": "TRT100528F15",
+      "coupon_no": 4,
+      "payment_date": "2028-05-10",
+      "coupon_usd": 260.0,
+      "principal_usd": 10000.0,
+      "total_usd": 10260.0
+    }
+  ],
+  "payment_months": [
+    {
+      "payment_month": "2026-10",
+      "coupon_usd": 334.5,
+      "principal_usd": 0.0,
+      "total_usd": 334.5
+    },
+    {
+      "payment_month": "2026-11",
+      "coupon_usd": 260.0,
+      "principal_usd": 0.0,
+      "total_usd": 260.0
+    },
+    {
+      "payment_month": "2026-12",
+      "coupon_usd": 520.0,
+      "principal_usd": 0.0,
+      "total_usd": 520.0
+    },
+    {
+      "payment_month": "2027-02",
+      "coupon_usd": 272.0,
+      "principal_usd": 0.0,
+      "total_usd": 272.0
+    },
+    {
+      "payment_month": "2027-04",
+      "coupon_usd": 777.0,
+      "principal_usd": 15000.0,
+      "total_usd": 15777.0
+    },
+    {
+      "payment_month": "2027-05",
+      "coupon_usd": 260.0,
+      "principal_usd": 0.0,
+      "total_usd": 260.0
+    },
+    {
+      "payment_month": "2027-06",
+      "coupon_usd": 520.0,
+      "principal_usd": 20000.0,
+      "total_usd": 20520.0
+    },
+    {
+      "payment_month": "2027-08",
+      "coupon_usd": 272.0,
+      "principal_usd": 10000.0,
+      "total_usd": 10272.0
+    },
+    {
+      "payment_month": "2027-10",
+      "coupon_usd": 442.5,
+      "principal_usd": 15000.0,
+      "total_usd": 15442.5
+    },
+    {
+      "payment_month": "2027-11",
+      "coupon_usd": 260.0,
+      "principal_usd": 0.0,
+      "total_usd": 260.0
+    },
+    {
+      "payment_month": "2028-05",
+      "coupon_usd": 260.0,
+      "principal_usd": 10000.0,
+      "total_usd": 10260.0
+    }
+  ],
+  "next_90_days": [
+    {
+      "isin": "TRT100528F15",
+      "payment_date": "2026-11-11",
+      "coupon_usd": 260.0,
+      "principal_usd": 0,
+      "total_usd": 260.0
+    },
+    {
+      "isin": "TRT090627F18",
+      "payment_date": "2026-12-09",
+      "coupon_usd": 520.0,
+      "principal_usd": 0,
+      "total_usd": 520.0
+    }
+  ],
+  "monthly_calendar": [
+    {
+      "payment_month": "2026-10",
+      "scheduled_coupon_usd": 334.5,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 334.5,
+      "remaining_coupon_usd": 0.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 0.0
+    },
+    {
+      "payment_month": "2026-11",
+      "scheduled_coupon_usd": 260.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 260.0,
+      "remaining_coupon_usd": 260.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 260.0
+    },
+    {
+      "payment_month": "2026-12",
+      "scheduled_coupon_usd": 520.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 520.0,
+      "remaining_coupon_usd": 520.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 520.0
+    },
+    {
+      "payment_month": "2027-01",
+      "scheduled_coupon_usd": 0.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 0.0,
+      "remaining_coupon_usd": 0.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 0.0
+    },
+    {
+      "payment_month": "2027-02",
+      "scheduled_coupon_usd": 272.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 272.0,
+      "remaining_coupon_usd": 272.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 272.0
+    },
+    {
+      "payment_month": "2027-03",
+      "scheduled_coupon_usd": 0.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 0.0,
+      "remaining_coupon_usd": 0.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 0.0
+    },
+    {
+      "payment_month": "2027-04",
+      "scheduled_coupon_usd": 777.0,
+      "scheduled_principal_usd": 15000.0,
+      "scheduled_total_usd": 15777.0,
+      "remaining_coupon_usd": 777.0,
+      "remaining_principal_usd": 15000.0,
+      "remaining_total_usd": 15777.0
+    },
+    {
+      "payment_month": "2027-05",
+      "scheduled_coupon_usd": 260.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 260.0,
+      "remaining_coupon_usd": 260.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 260.0
+    },
+    {
+      "payment_month": "2027-06",
+      "scheduled_coupon_usd": 520.0,
+      "scheduled_principal_usd": 20000.0,
+      "scheduled_total_usd": 20520.0,
+      "remaining_coupon_usd": 520.0,
+      "remaining_principal_usd": 20000.0,
+      "remaining_total_usd": 20520.0
+    },
+    {
+      "payment_month": "2027-07",
+      "scheduled_coupon_usd": 0.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 0.0,
+      "remaining_coupon_usd": 0.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 0.0
+    },
+    {
+      "payment_month": "2027-08",
+      "scheduled_coupon_usd": 272.0,
+      "scheduled_principal_usd": 10000.0,
+      "scheduled_total_usd": 10272.0,
+      "remaining_coupon_usd": 272.0,
+      "remaining_principal_usd": 10000.0,
+      "remaining_total_usd": 10272.0
+    },
+    {
+      "payment_month": "2027-09",
+      "scheduled_coupon_usd": 0.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 0.0,
+      "remaining_coupon_usd": 0.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 0.0
+    },
+    {
+      "payment_month": "2027-10",
+      "scheduled_coupon_usd": 442.5,
+      "scheduled_principal_usd": 15000.0,
+      "scheduled_total_usd": 15442.5,
+      "remaining_coupon_usd": 442.5,
+      "remaining_principal_usd": 15000.0,
+      "remaining_total_usd": 15442.5
+    },
+    {
+      "payment_month": "2027-11",
+      "scheduled_coupon_usd": 260.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 260.0,
+      "remaining_coupon_usd": 260.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 260.0
+    },
+    {
+      "payment_month": "2027-12",
+      "scheduled_coupon_usd": 0.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 0.0,
+      "remaining_coupon_usd": 0.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 0.0
+    },
+    {
+      "payment_month": "2028-01",
+      "scheduled_coupon_usd": 0.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 0.0,
+      "remaining_coupon_usd": 0.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 0.0
+    },
+    {
+      "payment_month": "2028-02",
+      "scheduled_coupon_usd": 0.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 0.0,
+      "remaining_coupon_usd": 0.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 0.0
+    },
+    {
+      "payment_month": "2028-03",
+      "scheduled_coupon_usd": 0.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 0.0,
+      "remaining_coupon_usd": 0.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 0.0
+    },
+    {
+      "payment_month": "2028-04",
+      "scheduled_coupon_usd": 0.0,
+      "scheduled_principal_usd": 0.0,
+      "scheduled_total_usd": 0.0,
+      "remaining_coupon_usd": 0.0,
+      "remaining_principal_usd": 0.0,
+      "remaining_total_usd": 0.0
+    },
+    {
+      "payment_month": "2028-05",
+      "scheduled_coupon_usd": 260.0,
+      "scheduled_principal_usd": 10000.0,
+      "scheduled_total_usd": 10260.0,
+      "remaining_coupon_usd": 260.0,
+      "remaining_principal_usd": 10000.0,
+      "remaining_total_usd": 10260.0
+    }
+  ],
+  "maturity_concentration": [
+    {
+      "maturity_year": "2027",
+      "nominal_usd": 60000.0,
+      "nominal_share": 0.8571428571428571
+    },
+    {
+      "maturity_year": "2028",
+      "nominal_usd": 10000.0,
+      "nominal_share": 0.14285714285714285
+    }
+  ],
+  "windows": [
+    {
+      "days": 30,
+      "end_date": "2026-11-21",
+      "coupon_usd": 260.0,
+      "principal_usd": 0.0,
+      "total_usd": 260.0
+    },
+    {
+      "days": 90,
+      "end_date": "2027-01-20",
+      "coupon_usd": 780.0,
+      "principal_usd": 0.0,
+      "total_usd": 780.0
+    },
+    {
+      "days": 365,
+      "end_date": "2027-10-22",
+      "coupon_usd": 3323.5,
+      "principal_usd": 60000.0,
+      "total_usd": 63323.5
+    }
+  ],
+  "summary": {
+    "scheduled_payment_count": 12,
+    "scheduled_coupon_usd": 4178.0,
+    "scheduled_principal_usd": 70000.0,
+    "scheduled_total_usd": 74178.0,
+    "remaining_coupon_usd": 3843.5,
+    "remaining_principal_usd": 70000.0,
+    "remaining_total_usd": 73843.5,
+    "past_scheduled_total_usd": 334.5,
+    "instrument_count": 5
+  },
+  "quality": {
+    "issue_count": 0,
+    "issues": [],
+    "demo_results": [
+      {
+        "case_id": "DQ01",
+        "description": "Missing period coupon rate",
+        "expected_rule": "R01",
+        "detected": true,
+        "issues": [
+          {
+            "rule_id": "R01",
+            "severity": "error",
+            "record_id": "instruments[0]",
+            "message": "period_coupon_rate must be finite, numeric and non-negative."
+          }
+        ]
+      },
+      {
+        "case_id": "DQ02",
+        "description": "Blank nominal amount",
+        "expected_rule": "R02",
+        "detected": true,
+        "issues": [
+          {
+            "rule_id": "R02",
+            "severity": "error",
+            "record_id": "positions[0]",
+            "message": "nominal_usd must be finite, numeric and non-negative; zero is allowed."
+          }
+        ]
+      },
+      {
+        "case_id": "DQ03",
+        "description": "Duplicate scheduled coupon",
+        "expected_rule": "R03",
+        "detected": true,
+        "issues": [
+          {
+            "rule_id": "R03",
+            "severity": "error",
+            "record_id": "coupon_schedule[12]",
+            "message": "Duplicate coupon number for this ISIN."
+          },
+          {
+            "rule_id": "R03",
+            "severity": "error",
+            "record_id": "coupon_schedule[12]",
+            "message": "Duplicate payment date for this ISIN."
+          },
+          {
+            "rule_id": "R06",
+            "severity": "error",
+            "record_id": "instruments[0]",
+            "message": "Coupon schedule must contain exactly coupons 1 through expected_coupon_count."
+          }
+        ]
+      },
+      {
+        "case_id": "DQ04",
+        "description": "Impossible payment date",
+        "expected_rule": "R04",
+        "detected": true,
+        "issues": [
+          {
+            "rule_id": "R04",
+            "severity": "error",
+            "record_id": "coupon_schedule[0]",
+            "message": "payment_date must be a valid YYYY-MM-DD date."
+          }
+        ]
+      },
+      {
+        "case_id": "DQ05",
+        "description": "Unknown instrument in an assumed position",
+        "expected_rule": "R05",
+        "detected": true,
+        "issues": [
+          {
+            "rule_id": "R05",
+            "severity": "error",
+            "record_id": "positions[0]",
+            "message": "isin does not reference a known instrument."
+          }
+        ]
+      },
+      {
+        "case_id": "DQ06",
+        "description": "Missing first coupon number",
+        "expected_rule": "R06",
+        "detected": true,
+        "issues": [
+          {
+            "rule_id": "R06",
+            "severity": "error",
+            "record_id": "instruments[0]",
+            "message": "Coupon schedule must contain exactly coupons 1 through expected_coupon_count."
+          }
+        ]
+      },
+      {
+        "case_id": "DQ07",
+        "description": "Declared maturity differs from last payment",
+        "expected_rule": "R07",
+        "detected": true,
+        "issues": [
+          {
+            "rule_id": "R07",
+            "severity": "error",
+            "record_id": "instruments[0]",
+            "message": "The last numbered coupon must be paid on maturity_date."
+          }
+        ]
+      },
+      {
+        "case_id": "DQ08",
+        "description": "Unsupported mixed currency",
+        "expected_rule": "R08",
+        "detected": true,
+        "issues": [
+          {
+            "rule_id": "R08",
+            "severity": "error",
+            "record_id": "instruments[0]",
+            "message": "Only USD instruments are supported; currencies cannot be mixed."
+          }
+        ]
+      },
+      {
+        "case_id": "DQ09",
+        "description": "Missing source URL",
+        "expected_rule": "R09",
+        "detected": true,
+        "issues": [
+          {
+            "rule_id": "R09",
+            "severity": "error",
+            "record_id": "sources[0]",
+            "message": "A source HTTP(S) URL with a host is required."
+          }
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source_id": "HMB_20260511",
+      "title": "HMB issue announcement, 11 May 2026",
+      "url": "https://ms.hmb.gov.tr/uploads/2026/05/110526-ABD-Dolari-cinsi-DIBS-Kira-Sertifikasi-0a48964a698fb6f8.pdf",
+      "publication_date": "2026-05-11",
+      "accessed_date": "2026-10-22",
+      "page": 1
+    },
+    {
+      "source_id": "HMB_20260413",
+      "title": "HMB issue announcement, 13 April 2026",
+      "url": "https://ms.hmb.gov.tr/uploads/2026/04/140426-ABD-Dolari-cinsi-DIBS-274af14c0612bd0e.pdf",
+      "publication_date": "2026-04-13",
+      "accessed_date": "2026-10-22",
+      "page": 1
+    },
+    {
+      "source_id": "HMB_20260819",
+      "title": "HMB issue announcement, 19 August 2026",
+      "url": "https://ms.hmb.gov.tr/uploads/2026/08/190826-ABD-Dolari-cinsi-DIBS-Kira-Sertifikasi-bbc387d22de5d984.pdf",
+      "publication_date": "2026-08-19",
+      "accessed_date": "2026-10-22",
+      "page": 1
+    },
+    {
+      "source_id": "HMB_20261005",
+      "title": "HMB issue announcement, 5 October 2026",
+      "url": "https://ms.hmb.gov.tr/uploads/2026/10/061027-ABD-Dolari-cinsi-DIBS-Kira-Sertifikasi-683a82c746d36ef2.pdf",
+      "publication_date": "2026-10-05",
+      "accessed_date": "2026-10-22",
+      "page": 1
+    },
+    {
+      "source_id": "HMB_20260605",
+      "title": "HMB issue announcement, 5 June 2026",
+      "url": "https://ms.hmb.gov.tr/uploads/2026/06/050626-ABD-Dolari-cinsi-DIBS-Kira-Sertifikasi-7f283325716cfea0.pdf",
+      "publication_date": "2026-06-05",
+      "accessed_date": "2026-10-22",
+      "page": 1
+    }
+  ],
+  "assumptions": {
+    "as_of_date": "2026-10-22",
+    "holding_basis": "Assumed constant holdings from issue to maturity. Not actual trades or investor positions.",
+    "positions": [
+      {
+        "isin": "TRT100528F15",
+        "nominal_usd": 10000
+      },
+      {
+        "isin": "TRT090627F18",
+        "nominal_usd": 20000
+      },
+      {
+        "isin": "TRT140427F13",
+        "nominal_usd": 15000
+      },
+      {
+        "isin": "TRT200827F11",
+        "nominal_usd": 10000
+      },
+      {
+        "isin": "TRT061027F15",
+        "nominal_usd": 15000
+      }
+    ]
+  },
+  "input_sha256": "1c265179f319b7672cd1daee800f31f17ed94007b3eb5234d71a754bbae30df8"
+}
