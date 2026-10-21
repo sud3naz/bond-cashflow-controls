@@ -1,0 +1,115 @@
+{
+  "sources": [
+    {
+      "source_id": "HMB_20260511",
+      "title": "HMB issue announcement, 11 May 2026",
+      "url": "https://ms.hmb.gov.tr/uploads/2026/05/110526-ABD-Dolari-cinsi-DIBS-Kira-Sertifikasi-0a48964a698fb6f8.pdf",
+      "publication_date": "2026-05-11",
+      "accessed_date": "2026-10-22",
+      "page": 1
+    },
+    {
+      "source_id": "HMB_20260413",
+      "title": "HMB issue announcement, 13 April 2026",
+      "url": "https://ms.hmb.gov.tr/uploads/2026/04/140426-ABD-Dolari-cinsi-DIBS-274af14c0612bd0e.pdf",
+      "publication_date": "2026-04-13",
+      "accessed_date": "2026-10-22",
+      "page": 1
+    },
+    {
+      "source_id": "HMB_20260819",
+      "title": "HMB issue announcement, 19 August 2026",
+      "url": "https://ms.hmb.gov.tr/uploads/2026/08/190826-ABD-Dolari-cinsi-DIBS-Kira-Sertifikasi-bbc387d22de5d984.pdf",
+      "publication_date": "2026-08-19",
+      "accessed_date": "2026-10-22",
+      "page": 1
+    },
+    {
+      "source_id": "HMB_20261005",
+      "title": "HMB issue announcement, 5 October 2026",
+      "url": "https://ms.hmb.gov.tr/uploads/2026/10/061027-ABD-Dolari-cinsi-DIBS-Kira-Sertifikasi-683a82c746d36ef2.pdf",
+      "publication_date": "2026-10-05",
+      "accessed_date": "2026-10-22",
+      "page": 1
+    },
+    {
+      "source_id": "HMB_20260605",
+      "title": "HMB issue announcement, 5 June 2026",
+      "url": "https://ms.hmb.gov.tr/uploads/2026/06/050626-ABD-Dolari-cinsi-DIBS-Kira-Sertifikasi-7f283325716cfea0.pdf",
+      "publication_date": "2026-06-05",
+      "accessed_date": "2026-10-22",
+      "page": 1
+    }
+  ],
+  "instruments": [
+    {
+      "isin": "TRT100528F15",
+      "currency": "USD",
+      "instrument_type": "fixed_coupon_domestic_government_bond",
+      "issue_date": "2026-05-13",
+      "maturity_date": "2028-05-10",
+      "period_coupon_rate": 0.026,
+      "coupon_period_months": 6,
+      "expected_coupon_count": 4,
+      "source_id": "HMB_20260511"
+    },
+    {
+      "isin": "TRT090627F18",
+      "currency": "USD",
+      "instrument_type": "fixed_coupon_domestic_government_bond",
+      "issue_date": "2026-06-10",
+      "maturity_date": "2027-06-09",
+      "period_coupon_rate": 0.026,
+      "coupon_period_months": 6,
+      "expected_coupon_count": 2,
+      "source_id": "HMB_20260605"
+    },
+    {
+      "isin": "TRT140427F13",
+      "currency": "USD",
+      "instrument_type": "fixed_coupon_domestic_government_bond",
+      "issue_date": "2026-04-15",
+      "maturity_date": "2027-04-14",
+      "period_coupon_rate": 0.0223,
+      "coupon_period_months": 6,
+      "expected_coupon_count": 2,
+      "source_id": "HMB_20260413"
+    },
+    {
+      "isin": "TRT200827F11",
+      "currency": "USD",
+      "instrument_type": "fixed_coupon_domestic_government_bond",
+      "issue_date": "2026-08-21",
+      "maturity_date": "2027-08-20",
+      "period_coupon_rate": 0.0272,
+      "coupon_period_months": 6,
+      "expected_coupon_count": 2,
+      "source_id": "HMB_20260819"
+    },
+    {
+      "isin": "TRT061027F15",
+      "currency": "USD",
+      "instrument_type": "fixed_coupon_domestic_government_bond",
+      "issue_date": "2026-10-07",
+      "maturity_date": "2027-10-06",
+      "period_coupon_rate": 0.0295,
+      "coupon_period_months": 6,
+      "expected_coupon_count": 2,
+      "source_id": "HMB_20261005"
+    }
+  ],
+  "coupon_schedule": [
+    {"isin": "TRT100528F15", "coupon_no": 1, "payment_date": "2026-11-11"},
+    {"isin": "TRT100528F15", "coupon_no": 2, "payment_date": "2027-05-12"},
+    {"isin": "TRT100528F15", "coupon_no": 3, "payment_date": "2027-11-10"},
+    {"isin": "TRT100528F15", "coupon_no": 4, "payment_date": "2028-05-10"},
+    {"isin": "TRT090627F18", "coupon_no": 1, "payment_date": "2026-12-09"},
+    {"isin": "TRT090627F18", "coupon_no": 2, "payment_date": "2027-06-09"},
+    {"isin": "TRT140427F13", "coupon_no": 1, "payment_date": "2026-10-14"},
+    {"isin": "TRT140427F13", "coupon_no": 2, "payment_date": "2027-04-14"},
+    {"isin": "TRT200827F11", "coupon_no": 1, "payment_date": "2027-02-19"},
+    {"isin": "TRT200827F11", "coupon_no": 2, "payment_date": "2027-08-20"},
+    {"isin": "TRT061027F15", "coupon_no": 1, "payment_date": "2027-04-07"},
+    {"isin": "TRT061027F15", "coupon_no": 2, "payment_date": "2027-10-06"}
+  ]
+}

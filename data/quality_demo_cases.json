@@ -1,0 +1,11 @@
+[
+  {"case_id":"DQ01","description":"Missing period coupon rate","target":"instruments","index":0,"field":"period_coupon_rate","value":null,"expected_rule":"R01"},
+  {"case_id":"DQ02","description":"Blank nominal amount","target":"positions","index":0,"field":"nominal_usd","value":"","expected_rule":"R02"},
+  {"case_id":"DQ03","description":"Duplicate scheduled coupon","target":"coupon_schedule","index":0,"operation":"append_duplicate","expected_rule":"R03"},
+  {"case_id":"DQ04","description":"Impossible payment date","target":"coupon_schedule","index":0,"field":"payment_date","value":"2026-02-30","expected_rule":"R04"},
+  {"case_id":"DQ05","description":"Unknown instrument in an assumed position","target":"positions","index":0,"field":"isin","value":"UNKNOWN_INSTRUMENT","expected_rule":"R05"},
+  {"case_id":"DQ06","description":"Missing first coupon number","target":"coupon_schedule","index":0,"field":"coupon_no","value":99,"expected_rule":"R06"},
+  {"case_id":"DQ07","description":"Declared maturity differs from last payment","target":"instruments","index":0,"field":"maturity_date","value":"2030-01-01","expected_rule":"R07"},
+  {"case_id":"DQ08","description":"Unsupported mixed currency","target":"instruments","index":0,"field":"currency","value":"TRY","expected_rule":"R08"},
+  {"case_id":"DQ09","description":"Missing source URL","target":"sources","index":0,"field":"url","value":null,"expected_rule":"R09"}
+]
