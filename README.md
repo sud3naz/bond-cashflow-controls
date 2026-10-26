@@ -4,6 +4,8 @@ A small, source-traceable analysis of scheduled coupon and principal payments fo
 
 The project combines business requirements, SQL analysis, financial cash-flow calculations and explicit data-quality controls. It is an independent learning case, not a real institution's portfolio or a production investment system.
 
+**[View the complete report in your browser — no download required](reports/README.md).** It shows the findings, chart, full payment schedule, assumptions and source links. The Excel workbook is optional.
+
 ![Cash flow report overview](reports/overview.png)
 
 ## Business question
